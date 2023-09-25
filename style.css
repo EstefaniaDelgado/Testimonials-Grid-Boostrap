@@ -28,6 +28,10 @@
     background-color: hsl(219, 29%, 14%);
 }
 
+footer .fa-square-github{
+    color: #333;
+}
+
 /* Breakpoint */
 @media (min-width: 992px) {
     .alto-100{
